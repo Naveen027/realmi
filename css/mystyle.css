@@ -1,0 +1,365 @@
+body{
+    background-color: #f5f5f5;
+}
+
+.nav1 ul li{
+    display: inline-block;
+    margin-left: 20px;
+    font-weight: 400;
+    font-size: 13px;
+    color: grey;
+    margin-top: 10px;
+    border-right: 1px solid grey;
+    padding-right: 10px;
+}
+
+
+
+.nav1 ul{
+    margin-left: 100px;
+}
+/* .nav1 .nav1right{
+    float: right;
+    margin-left: 25px;
+}
+
+.nav1 .nav1r{
+    margin-right: 180px;
+} */
+
+.nav2{
+    margin-left: 90px;
+}
+
+.nav2 ul li{
+    display: inline-block;
+    margin-left: 30px;
+}
+
+.nav2 h3{
+    font-size: 15px;
+    margin-left: 25px;
+    font-weight: 400;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.nav2 h3:hover{
+    color: rgb(255, 255, 5);
+}
+/* ---------------------------------------sldier----------------------------------------------------- */
+
+.carousel-inner>.item>a>img, .carousel-inner>.item>img {
+    line-height: 1;
+    height: 655px;
+  
+}
+
+.carousel {
+    position: relative;
+    margin-left: -17%;
+    width: 133.6%;
+    margin-top: -9px;
+}
+
+/* ---------------------------------------------firstsection-------------------------------------- */
+
+
+#first .col-lg-3{
+    /* border: 2px solid red; */
+    margin-left: 15px;
+    height: 400px;
+    width: 281px;
+    background-color: white;
+}
+
+#first .row{
+    margin-left: -30px;
+}
+
+#first .heading{
+    margin-top: 40px;
+    margin-bottom: 25px;
+    font-weight: 600;
+}
+
+#first .col-lg-3 img{
+    height: 175px;
+    width: 175px;
+    margin-left: 40px;
+    margin-top: 40px
+}
+
+#first .col-lg-3 h3{
+    font-size: 17px;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 25px;
+}
+
+#first .col-lg-3 .rate{
+    color: rgb(209, 32, 32);
+}
+
+/* -----------------------------second=-------------------------------------------------------- */
+
+#second .col-lg-3{
+    /* border: 2px solid red; */
+    margin-left: 15px;
+    margin-top: 15px;
+    height: 400px;
+    width: 281px;
+    background-color: white;
+}
+
+#second .row{
+    margin-left: -30px;
+}
+
+#second .heading{
+    margin-top: 40px;
+    margin-bottom: 25px;
+    font-weight: 600;
+}
+
+#second .col-lg-3 img{
+    height: 175px;
+    width: 175px;
+    margin-left: 40px;
+    margin-top: 60px
+}
+
+#second .col-lg-3 h3{
+    font-size: 17px;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 25px;
+}
+
+
+#second .col-lg-3 h5{
+    text-align: center;
+}
+#second .col-lg-3 .rate{
+    color: rgb(209, 32, 32);
+}
+
+/* ---------------------------------------third--------------------------------------------------------------- */
+
+#third .col-lg-6{
+    /* border: 2px solid red; */
+    height: 300px;
+    width: 577px;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+#third .row{
+    margin-left: -30px;
+}
+
+#third .heading{
+    margin-top: 40px;
+    margin-bottom: 25px;
+    font-weight: 600;
+}
+
+#third .col-lg-6 h3{
+    font-weight: bold;
+    margin-top: 85px;
+    font-size: 18px;
+    margin-left: 35px;
+}
+
+#third .col-lg-6 h5{
+    margin-top: 20px;
+    font-size: 16px;
+    margin-left: 35px;
+}
+
+#third .col-lg-6 h4{
+    margin-top: 45px;
+    margin-left: 35px;
+    color: rgb(201, 26, 26);
+}
+
+#third .col-lg-6 .col-md-6{
+    border: 2px solid red;
+    width: 285px;
+    height: 300px;
+}
+
+#third .col-lg-6 .col-md-5 img{
+    height: 200px;
+    margin-top: 40px;
+    width: 200px;
+}
+
+
+#third .col-lg-3{
+    /* border: 2px solid red; */
+    margin-left: 15px;
+    margin-top: 15px;
+    height: 370px;
+    width: 281px;
+    background-color: white;
+}
+
+#third .row{
+    margin-left: -30px;
+}
+
+#third .col-lg-3 img{
+    height: 175px;
+    width: 175px;
+    margin-left: 40px;
+    margin-top: 50px
+}
+
+#third .col-lg-3 h3{
+    font-size: 17px;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 25px;
+}
+
+
+#third .col-lg-3 h5{
+    text-align: center;
+}
+#third .col-lg-3 .rate{
+    color: rgb(209, 32, 32);
+}
+
+/* ----------------------------------------fifthsection--------------------------------------- */
+
+#fifth .col-lg-6{
+    /* border: 2px solid red; */
+    height: 305px;
+    width: 575px;
+    margin-left:20px;
+}
+
+#fifth .row{
+    margin-left: -35px;
+}
+
+#fifth .col-lg-6 img{
+    height: 300px;
+    width: 575px;
+    margin-top: 10px;
+    margin-left: -15px;
+}
+
+#fifth .heading{
+    margin-top: 40px;
+    margin-bottom: 25px;
+    font-weight: 600;
+}
+
+
+/* ------------------------------------------------sixthsection---------------------------------------- */
+
+.sixth{
+    margin-top: 100px;
+}
+
+.sixth img{
+    width: 100%;
+    position:absolute;
+}
+.sixth button{
+    position: relative;
+    margin-top: 13.8%;
+    margin-left: 45%;
+    background-color: transparent;
+    border: 1px solid white;
+    color: rgb(0, 0, 0);
+    width: 152px;
+    height: 46px;
+}
+
+.sixth button:hover{
+    background-color: white;
+    color: red;
+}
+
+/* ------------------------------------------------seven----------------------------------------- */
+#seven{
+    margin-top: 115px;
+}
+
+#seven .row{
+    margin-left: -70px;
+}
+
+#seven .col-lg-2{
+    height: 200px;
+    width: 200px;
+    margin-left: 20px;
+    /* border: 2px solid red; */
+}
+
+
+#seven .col-lg-3{
+    /* border: 2px solid red; */
+    height: 300px;
+    margin-left: 38px;
+  
+}
+
+
+#seven{
+    margin-top: 175px;
+}
+
+#seven .col-lg-2 h5{
+    font-weight: 600;
+}
+
+#seven .col-lg-2 h6{
+    margin-top: 15px;
+}
+
+#seven .col-lg-3 h3{
+    text-align: center;
+    margin-top: 0px;
+    font-weight: 600;
+}
+
+#seven .col-lg-3 h6{
+    text-align: center;
+}
+
+#seven .col-lg-3 button{
+    margin-left: 60px;
+    margin-top: 15px;
+    background-color: transparent;
+    border: 1px solid black;
+    font-weight: 600;
+    height: 45px;
+    width: 150px;
+}
+
+#seven .col-lg-3 .icons li{
+    display: inline-block;
+    color: white;
+    background-color: black;
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    margin-left: 15px;
+}
+
+#seven .icons{
+    margin-top: 20px;
+}
+
+#seven .col-lg-3 .icons .fa{
+    font-size: 20px;
+    padding-left: 7px;
+    padding-top: 6px;
+}
+
+
+.india{
+    margin-left: 155px;
+}
